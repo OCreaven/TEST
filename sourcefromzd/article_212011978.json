@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p dir=\"ltr\">In order to view top-line metrics across all of the profiles in your account, you can select the “View All Profiles” option from the top-left drop down on your dashboard. This enables you to easily compare retargeting performance across each of the sites you manage.</p>\r\n<p dir=\"ltr\">Once logged into your dashboard, you’ll view your most recently-visited advertiser profile. This profile will be highlighted in white text just above the AdRoll logo in the top left corner of your screen. In the example below, we’re viewing the “First Profile Account.”</p>\r\n<p dir=\"ltr\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202836250/profilecloseup_en-us.png\" alt=\"\" /></p>\r\n<p dir=\"ltr\">Clicking on the advertiser profile listed will open a drop-down menu that lists your other advertiser profiles. Remember, each advertiser profile should correspond with a different website, and will have it’s own unique SmartPixel.</p>\r\n<p dir=\"ltr\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202836280/profilemenu_en-us.png\" alt=\"\" /></p>\r\n<p dir=\"ltr\">By clicking “View All Profiles” in the drop-down menu, you can see your retargeting performance across multiple profiles.</p>\r\n<p dir=\"ltr\">To create a campaign for a new website, click the “Create New Profile” button on the right of the Dashboard. By clicking on any of the profile names below the graph, you can access metrics specific to that account.</p>\r\n<p dir=\"ltr\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202779944/viewallprofiles_en-us.png\" alt=\"\" /></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:21:39Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212011978-Viewing-Performance-Across-Your-Profiles", 
+    "id": 212011978, 
+    "label_names": [
+        "tag_account_performance_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Viewing Performance Across Your Profiles", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202483518, 
+    "source_locale": "en-us", 
+    "title": "Viewing Performance Across Your Profiles", 
+    "updated_at": "2016-01-21T01:26:35Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212011978-Viewing-Performance-Across-Your-Profiles.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

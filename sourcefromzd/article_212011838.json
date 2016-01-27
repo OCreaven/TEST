@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table style=\"background-color: #f9fcfd;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Jump to</span></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li><a href=\"#1\">Creating new advertiser profiles</a></li>\r\n<li><a href=\"#2\">How do I switch between advertiser profiles?</a></li>\r\n<li><a href=\"#3\">How do I provide someone with access to one of my profiles?</a></li>\r\n<li><a href=\"#4\">Can I use separate credit cards for each profile?</a></li>\r\n<li><a href=\"#5\">Can I see an overview of performance across all my profiles?<br /><br /></a></li>\r\n</ul>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Advertiser profiles help you manage campaigns for multiple websites in a single AdRoll account. Each profile you create generates a unique SmartPixel for you to activate on the corresponding website, and essentially functions as it’s own AdRoll dashboard.</p>\r\n<p>Your first advertiser profile is generated using the website URL submitted when you signed up.</p>\r\n<p> </p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\"><a name=\"1\"></a>Creating new advertiser profiles</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-medium\">Add, edit or delete profiles in your account by going to <em>Settings (gear) &gt; Advertiser Profiles</em>.</span></p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202777054/newprofile_en-us.gif\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Click “New Profile”</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2. </span>Name your profile and enter your website URL.<br /><span class=\"wysiwyg-font-size-large\">3. </span>Save!</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><strong><a name=\"2\"></a><span class=\"wysiwyg-font-size-large\">How do I switch between Advertiser Profiles?</span></strong></p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202833820/changeprofile_en-us.gif\" alt=\"\" /></p>\r\n<p>Once you’ve created your new profile, refresh your dashboard to make changes stick. In the top left corner of your dashboard, you will then see the name of the profile that you are viewing. Click on this name to drop down a menu of available profiles on the account and click on the profile names toggle between them.</p>\r\n<p><strong><strong> </strong></strong></p>\r\n<p><strong><a name=\"3\"></a><span class=\"wysiwyg-font-size-large\">How do I provide someone with access to one of my profiles?</span></strong></p>\r\n<p>Access to specific profiles can be managed through “Additional Users”. Learn more about <a href=\"https://help.adroll.com/hc/en-us/articles/201815214#content-anchor\">“Adding Additional Users To Your Account”</a>.</p>\r\n<p><strong><strong> </strong></strong></p>\r\n<p><strong><a name=\"4\"></a><span class=\"wysiwyg-font-size-large\">Can I use separate credit cards for each profile?</span></strong></p>\r\n<p>Please reach out to your account manager or Delight to learn more about activating separate <a href=\"https://help.adroll.com/hc/en-us/articles/201940610-Managing-Your-Billing-Information\" target=\"_blank\">forms of payment</a> for each profile you have. You can read more on what to expect in our <a href=\"https://help.adroll.com/hc/en-us/articles/201970150#content-anchor\" target=\"_blank\">Billing FAQ</a>.</p>\r\n<p> </p>\r\n<p><strong><a name=\"5\"></a><span class=\"wysiwyg-font-size-large\">Can I see an overview of performance across all my profiles?</span></strong></p>\r\n<p><span class=\"wysiwyg-font-size-medium\">You sure can! If you click open the menu to toggle between profiles, you'll see a <a href=\"https://help.adroll.com/hc/en-us/articles/201687284#content-anchor\" target=\"_blank\">\"View All Profiles\"</a> button at the bottom. Click on it to get a birds eye view of performance across your profiles.</span></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:20:30Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212011838-Setting-Up-Advertiser-Profiles", 
+    "id": 212011838, 
+    "label_names": [
+        "tag_new_advertiser_profile_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Setting Up Advertiser Profiles", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202483518, 
+    "source_locale": "en-us", 
+    "title": "Setting Up Advertiser Profiles", 
+    "updated_at": "2016-01-21T01:13:25Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212011838-Setting-Up-Advertiser-Profiles.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

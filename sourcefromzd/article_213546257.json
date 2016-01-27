@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>Your personal account settings can be managed in the \"Personal Information\" section of settings. This is where you will go to manage thing like your dashboard language, email address, and account security.</p>\r\n<p>Any changes you make here will only apply to how <em>you</em> see your dashboard, even if there are additional users on your account.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Personal Information</strong></span></p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/203394437/settings_personalinfo_en-us.png\" alt=\"\" /></strong></span></p>\r\n<p>If you need to update your email address, change your password, or switch your dashboard language, you can do this by updating “Personal Information” in <em>settings</em>.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">First Name, Last Name</span></p>\r\n<p>If you want to make any changes to your \"Personal Information\", start by entering your first and last name.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Email</span></p>\r\n<p>Your email is also the username you use to access your AdRoll account . As activity occurs on your account that needs your attention or we launch new products and features, we’ll email you to let you know. If you don’t want to be contacted by email, you can adjust your email settings in “Email Preferences”, also in <em>settings</em>.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Account Security</span></p>\r\n<p>It’s a good practice to update your password periodically to keep your information safe. You need to enter your existing password in order to specify a new one. If you’ve forgotten, log out and click the “Forgot Password” link. We’ll send the email address on file a link to reset your password.</p>\r\n<p>As a best practice for account security, we recommend activating <strong>2-step encryption</strong>. 2-step adds another layer of security by requiring you to verify who you are through your mobile device in addition to providing your username and password.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Dashboard Language</span></p>\r\n<p>To change your dashboard language, click on the menu and pick your language from the list. Note that your dashboard language is not tied to your dashboard currency. Click here to learn more about dashboard currencies and how to get this adjusted.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-04T19:45:01Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213546257-Personal-Information", 
+    "id": 213546257, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Personal Information", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202466387, 
+    "source_locale": "en-us", 
+    "title": "Personal Information", 
+    "updated_at": "2016-01-20T15:38:51Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213546257-Personal-Information.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>Any company information you provide will appear on your invoices (in “Billing History”). This is sometimes necessary for tax purposes. </p>\r\n<p>For EMEA users, this is how you will add your VAT number to your invoices.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-04T19:46:49Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213546297-Company-Information", 
+    "id": 213546297, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Company Information", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202466387, 
+    "source_locale": "en-us", 
+    "title": "Company Information", 
+    "updated_at": "2015-12-02T18:42:42Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213546297-Company-Information.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p dir=\"ltr\">The purpose of AdGroups is to organize the ads within your campaign and strategically direct them to specific audience (or conversion) segments.</p>\r\n<p><em><span class=\"wysiwyg-font-size-medium\">For help with managing segments within existing AdGroups, see <a href=\"https://help.adroll.com/hc/en-us/articles/201967820#content-anchor\" target=\"_blank\">\"Managing Segments Within Your Campaign\"</a>.</span></em></p>\r\n<p dir=\"ltr\">AdGroups let advertisers group relevant ads and serve them to a specific segment.  If you are running a seasonal promotion that highlights a new product, you can serve ad images containing this product to the associated segment.  For example, users who visited<span class=\"wysiwyg-underline\">http://yousite.com/winter_jackets </span>can be shown ads held within a Jackets AdGroup.  By serving relevant ads to an interested audience segment, you will increase your click-through rate (CTR) and win more conversions.</p>\r\n<p dir=\"ltr\"> </p>\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-large\"><strong>Creating AdGroups from your Dashboard</strong></span></p>\r\n<p>In order to create a new AdGroup for an active campaign, click “Campaigns” in the top menu bar, then select your intended campaign beneath the graph.  Once you are viewing the performance of your campaign, click “Add AdGroup” on the right side of the screen. </p>\r\n<p>You can see and measure performance across each AdGroup.  Your dashboard will provide reporting on both cost and conversion metrics on the AdGroup level, which will allow you to test new images and copy as you refine your retargeting.  A/B testing like this is easy with AdGroups.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T20:00:01Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212676487-Using-AdGroups", 
+    "id": 212676487, 
+    "label_names": [
+        "tag_ad_groups_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Using AdGroups", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202483538, 
+    "source_locale": "en-us", 
+    "title": "Using AdGroups", 
+    "updated_at": "2016-01-21T01:31:38Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212676487-Using-AdGroups.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

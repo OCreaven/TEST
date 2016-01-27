@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>You can update your payment information at any time by going to: <em>Settings</em> &gt; <em>Billing Information.</em></p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">How do I change my payment method?</span></strong></p>\r\n<p>To change your payment method, go to \"Billing Information\".</p>\r\n<p><span class=\"wysiwyg-font-size-large\">1.</span> Click <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204121857/billing_addpayment_en-us.png\" alt=\"\" />in the top right corner.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">2.</span> Enter your name and billing address.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">3.</span> Add a new <a href=\"/hc/en-us/articles/211842638\" target=\"_blank\">credit card</a> or <a href=\"/hc/en-us/articles/214626277\" target=\"_blank\">PayPal account</a>.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">4.</span> Click <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204121018/billing_makedefault_en-us.png\" alt=\"\" />to make it your default payment method, meaning it's the main payment method you would like to use moving forward. Any other payment methods on your account will be used as backup in case the default fails.</p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">How do I remove payment methods?</span></strong></p>\r\n<p>We need to have at least one payment method on file if you've launched a campaign. To remove payment methods, click <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204122137/billing_remove_en-us.png\" alt=\"\" />.</p>\r\n<p>Removing a payment means that the payment method can't be used as backup anymore. We recommending uploading at least one other payment method as backup to avoid any interruption in campaign activity.</p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-19T23:20:44Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/214632787-Updating-or-Removing-Payment-Information", 
+    "id": 214632787, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Updating or Removing Payment Information", 
+    "outdated": false, 
+    "position": 4, 
+    "promoted": false, 
+    "section_id": 202483668, 
+    "source_locale": "en-us", 
+    "title": "Updating or Removing Payment Information", 
+    "updated_at": "2016-01-15T23:38:59Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/214632787-Updating-or-Removing-Payment-Information.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

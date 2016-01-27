@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Edit it</span></p>\r\n<p class=\"wysiwyg-indent1\">You can edit <em>pending</em>, <em>active</em>, or <em>paused</em> campaigns anytime right from your AdRoll dashboard.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Go to \"Campaigns\" on your AdRoll dashboard.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2.</span> Scroll down and click on the name of the campaign you want to edit.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.</span> After the campaign page loads, click on the \"Edit Campaign\" button in the right sidebar.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span> Make your edits. Make sure you save through to \"Update Campaign\".</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Do edits apply immediately to my campaign?</strong></span></p>\r\n<p>Changes that do not affect your campaign's content will apply immediately. For example:</p>\r\n<ul>\r\n<li>Campaign budget</li>\r\n<li>Date range (e.g. adding an end date)</li>\r\n<li>Adding or removing audience segments</li>\r\n<li>Removing or pausing an ad in your campaign</li>\r\n</ul>\r\n<p>The only time that there will be a delay is if the changes you've made need to be reviewed for content. In the cases below, changes will appear as <em>pending</em> and will be reviewed within 1 business day of submission.</p>\r\n<ul>\r\n<li>Adding new ads to your campaign</li>\r\n<li>Editing your ad's landing page</li>\r\n<li>Editing your Facebook ad's text fields</li>\r\n</ul>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Can I edit <em>completed</em> or <em>rejected</em> campaigns?</strong></span></p>\r\n<p>If your campaign has been <em>completed</em> or <em>rejected</em>, it is no longer active and cannot be edited. Instead, launch a new campaign with your updates.</p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-26T17:20:57Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212466248-Editing-Your-Campaign", 
+    "id": 212466248, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Editing Your Campaign", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": true, 
+    "section_id": 202466407, 
+    "source_locale": "en-us", 
+    "title": "Editing Your Campaign", 
+    "updated_at": "2016-01-07T21:01:30Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212466248-Editing-Your-Campaign.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

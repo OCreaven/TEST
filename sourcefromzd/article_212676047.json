@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Control your budget</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Navigate to \"Campaigns\" on your AdRoll dashboard.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2.</span> Click on the name of the campaign you want to update, and then \"Edit Campaign\" in the right sidebar.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.</span> Under<em> Budget</em> enter your desired budget.</p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204771638/campaign_editbudget_en-us.png\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span> Click “Update Campaign.”</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:39:08Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212676047-Adjusting-Your-Campaign-Budget", 
+    "id": 212676047, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Adjusting Your Campaign Budget", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202466407, 
+    "source_locale": "en-us", 
+    "title": "Adjusting Your Campaign Budget", 
+    "updated_at": "2016-01-07T21:10:18Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212676047-Adjusting-Your-Campaign-Budget.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

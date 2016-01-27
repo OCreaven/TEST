@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Ajout d'une carte de crédit via <em>Paramètres &gt; Informations de facturation</em></span></p>\r\n<p class=\"wysiwyg-indent1\">AdRoll accepte les cartes de crédit suivantes : VISA, MasterCard, Discover et American Express.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1. </span>Cliquez<img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204605207/billing_addpayment_en-us.png\" alt=\"\" />\n<br> <span class=\"wysiwyg-font-size-large\">2. </span>Saisissez vos informations de facturation. Après avoir vérifié ces informations, cliquez sur &quot;Suivant&quot;.\n<br> <span class=\"wysiwyg-font-size-large\">3. </span>Sélectionnez &quot;Carte de crédit&quot;. Cliquez sur &quot;Suivant&quot; pour confirmer.\n<br /> <span class=\"wysiwyg-font-size-large\">4. </span>Saisissez les données de votre carte de crédit et cliquez sur &quot;Enregistrer&quot;.\n<br>S'il s'agit du seul mode de paiement disponible sur votre tableau de bord, la carte de crédit sera utilisée par défaut. Sinon, cliquez sur le bouton <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204605227/billing_makedefault_en-us.png\" alt=\"\" /> pour actualiser votre préférence de paiement.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><br /> <br /><span class=\"wysiwyg-font-size-large\">J'ai des problèmes avec ma carte de crédit.</span></p>\r\n<p>Si vous rencontrez des difficultés lors du téléchargement de votre carte de crédit, veuillez suivre les étapes de dépannage suivantes :</p>\r\n<p><span class=\"wysiwyg-font-size-large\">1. </span>Vérifiez que vous utilisez une carte de crédit autorisée. Nous n'acceptons ni les cartes pré-payées ni les cartes de crédit offertes.\n<br> <span class=\"wysiwyg-font-size-large\">2. </span>Vérifiez la date d'expiration de votre carte de crédit. Si vous utilisez une toute nouvelle carte, assurez-vous qu'elle a été correctement activée.\n<br /> <span class=\"wysiwyg-font-size-large\">3. </span>Vérifiez que vous avez correctement saisi les données de votre carte de crédit. Si le numéro ou la date d'expiration de votre carte de crédit comporte des erreurs, vous serez invité à les corriger.\n<br> <span class=\"wysiwyg-font-size-large\">4. </span>Appelez l'émetteur de votre carte pour savoir s'il bloque la transaction. Certaines cartes sont soumises à des protocoles de sécurité renforcés qui peuvent vous obliger à autoriser de façon explicite les prélèvements récurrents d'AdRoll.com. Comme nous sommes basés aux États-Unis, il est possible que des banques et émetteurs de cartes de crédit imposent des restrictions supplémentaires sur les prélèvements internationaux.\n</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T21:53:17Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/211842638-Paying-by-Credit-Card", 
+    "id": 211842638, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Paying by Credit Card", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202483668, 
+    "source_locale": "en-us", 
+    "title": "Paiement par carte de crédit", 
+    "updated_at": "2016-01-20T15:38:54Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/211842638-Paying-by-Credit-Card.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

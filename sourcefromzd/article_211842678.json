@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #f9fcfd;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">AdRoll Pricing, in one sentence</span></p>\r\n<p class=\"wysiwyg-indent1\">You pay for ad space and we keep a small percent for serving your ad. </p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>What am I paying for?</strong></span></p>\r\n<p><span style=\"font-weight: 400;\">You pay for your ads to serve. The campaign budget you set let's us know the target amount you want to spend </span><em><span style=\"font-weight: 400;\">per campaign</span></em><span style=\"font-weight: 400;\"> for the week. Your total weekly spend is the cost of buying ad space to deliver your ads (or in advertising lingo, serving impressions).</span></p>\r\n<p>This is called dynamic CPM pricing.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>How much do impressions cost?</strong></span></p>\r\n<p><span style=\"font-weight: 400;\">Ad space is bought and sold through virtual auction and prices fluctuate depending on demand. The more advertisers vying for a particular impression, the higher the cost will be. Our job is to determine where your money will be most effective; we bid to win the highest quality inventory, at the lowest possible price and pass any cost saving to you.</span></p>\r\n<p><span style=\"font-weight: 400;\">Your CPM on a web campaign will be much lower than on Facebook. Once your campaign begins serving, check for CPM (or cost per thousand impressions) over a particular date range to see the average cost within that period.</span></p>\r\n<p>Want to learn more about how we determine when and how much to bid? Click <a href=\"/hc/en-us/articles/214448657\">here</a>.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Why not charge by clicks (CPC) or conversions (CPA)?</strong></span></p>\r\n<p><span style=\"font-weight: 400;\">Advertisers often ask us if we price by CPC or CPA. The short answer is no, we price dynamically based on CPM. The benefit of a dynamic pricing model like ours is that costs reflect the true value of the inventory we buy for you. We're not after cheap clicks; we want to drive clicks that matter.</span></p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>So... how much should I budget?</strong></span></p>\r\n<p><span style=\"font-weight: 400;\">There are two variables in campaign spend for retargeting: the budget you set and the size of your audience. The more people you need to reach, the larger your budget should be to avoid limiting campaign performance.</span></p>\r\n<p><span style=\"font-weight: 400;\">For our budget recommendations, click <a href=\"/hc/en-us/articles/212012408\">here</a>.</span></p>\r\n<p><span style=\"font-weight: 400;\">If you're brand new to retargeting (or online advertising in general), knowing how much money to set aside for your campaigns can be a tough nut to crack. Rather than guessing the optimal budget for your web or Facebook campaign, take a systematic approach.</span></p>\r\n<p><span style=\"font-weight: 400;\"><strong>Start with a budget of $30.</strong> It doesn't break the bank and should be sufficient for at least your first two weeks as your SmartPixel works to build your audience. After two weeks, check on how much you spent each week. If spend hasn't hit the $30 mark in either week, great! Your budget is fine where it is.</span></p>\r\n<p><span style=\"font-weight: 400;\">However, if spend is consistently hitting your weekly budget, that's an indication that your campaign has room to grow. Increase your budget in increments weekly until you've found that happy spot where you're spending your budget with a little wiggle room ($5 - $10) to spare.</span></p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T21:56:34Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/211842678-Pricing", 
+    "id": 211842678, 
+    "label_names": [
+        "tag_prepaid_billing_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Pricing", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": true, 
+    "section_id": 202466467, 
+    "source_locale": "en-us", 
+    "title": "Pricing", 
+    "updated_at": "2016-01-21T01:15:07Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/211842678-Pricing.json", 
+    "vote_count": 1, 
+    "vote_sum": 1
+}

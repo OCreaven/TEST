@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Adding a Paypal account in <em>Settings &gt; Billing Information</em></span></p>\r\n<p class=\"wysiwyg-indent1\"><em>New to PayPal? Learn more and create an account on <a href=\"https://www.paypal.com/home\" target=\"_blank\">PayPal.com</a>.</em></p>\r\n<p class=\"wysiwyg-indent1\">PayPal users can pay by PayPal.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1. </span>Click <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204601148/billing_addpayment_en-us.png\" alt=\"\" /><br /> <span class=\"wysiwyg-font-size-large\">2. </span>Enter your billing information. Once you’ve verified that this information is accurate, click “Next”. <br /> <span class=\"wysiwyg-font-size-large\">3. </span>Select “PayPal”. Click “Next” to confirm. <br /> <span class=\"wysiwyg-font-size-large\">4. </span>A PayPal login portal will appear. Enter your PayPal username and password. Then, click “Log In”. <br /> <span class=\"wysiwyg-font-size-large\">5. </span>“Agree” to link your AdRoll and PayPal accounts. </p>\r\n<p class=\"wysiwyg-indent1\">If this is the only payment method available on your dashboard, your PayPal account will automatically be marked as default. Otherwise, click <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204605247/billing_makedefault_en-us.png\" alt=\"\" /> to make Paypal your default payment option.</p>\r\n<p class=\"wysiwyg-indent1\">AdRoll bills on an upfront weekly system. Click <a href=\"/hc/en-us/articles/212518057\">here</a> for more information.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><br /><strong><span class=\"wysiwyg-font-size-large\">What am I agreeing to?</span></strong></p>\r\n<p>By clicking “Agree” you are preapproving payments from your PayPal account to fund your AdRoll campaigns. You will not be charged until you launch a campaign and are approved to run. AdRoll does not gain access to your payment information or options directly, this is held and managed entirely within your PayPal account.</p>\r\n<p><br /> <br /><strong><span class=\"wysiwyg-font-size-large\">How do I change my funding source on PayPal?</span></strong></p>\r\n<p>If you use PayPal, management of payment occurs within your PayPal account. To change your funding source for AdRoll, log into your PayPal account and follow these steps:</p>\r\n<p><span class=\"wysiwyg-font-size-large\">1. </span>Click on the “gear” in the top right corner of your PayPal dashboard to access settings. <br /> <span class=\"wysiwyg-font-size-large\">2. </span>Under Payment Settings, click “Preapproved payments”. <br /> <span class=\"wysiwyg-font-size-large\">3. </span>Under the Merchant column, find and click on “AdRoll, Inc”. <br /> <span class=\"wysiwyg-font-size-large\">4. </span>Under the Funding Source section, “Change” your backup funding source. <br /> <span class=\"wysiwyg-font-size-large\">5. </span>Select the funding source desired and click “Save”. <br />Moving forward, if PayPal is not able to cover the charge with your existing PayPal balance, it will use the backup funding source specified.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-19T20:41:00Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/214626277-Paying-with-PayPal", 
+    "id": 214626277, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Paying with PayPal", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202483668, 
+    "source_locale": "en-us", 
+    "title": "Paying with PayPal", 
+    "updated_at": "2016-01-20T15:38:53Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/214626277-Paying-with-PayPal.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

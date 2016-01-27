@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><span class=\"wysiwyg-font-size-medium\">You can use the <em>Location</em> setting to target or exclude specific cities, regions and countries. We call this geo-targeting.</span></p>\r\n<p><span class=\"wysiwyg-font-size-medium\">Geo-targets are set when initially launching a campaign. When prompted, simply type in the desired location that you wish to geo-target, and then click on that location in the pop-up menu that appears.</span></p>\r\n<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Adding geo-targets to your campaign</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1. </span>Click on the \"Campaigns\" tab<br /><span class=\"wysiwyg-font-size-large\">2. </span>Click on the hyperlinked name of your campaign<br /><span class=\"wysiwyg-font-size-large\">3. </span>Click \"Edit Campaign\" on the right side of your dashboard<br /><span class=\"wysiwyg-font-size-large\">4. </span>Type in the name of the location that you wish to geo-target, and then click on that location in the pop-up menu that appears. <br /><span class=\"wysiwyg-font-size-large\">5. </span>\"Update\"!</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>How to Search for Geo-targets</strong></span></p>\r\n<p>When searching for the location that you wish you geo-target, enter only the name of the location, and not additional parameters to narrow down results. </p>\r\n<p>For example, if searching for San Francisco (city)...</p>\r\n<p><strong>Search:</strong></p>\r\n<p>\"San Francisco\"</p>\r\n<p><strong>Not:</strong></p>\r\n<p>\"San Francisco, CA\" or \"San Francisco, USA\"</p>\r\n<p>Results correlating to the name specified will appear, organized by Countries, Regions, Metros, and Cities. Simply search the list for your desired location and click \"Done\" to apply!</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202835010/geotargets_en-us.png\" alt=\"\" /></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:46:40Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212012688-Setting-Location-Parameters-Geo-targets-", 
+    "id": 212012688, 
+    "label_names": [
+        "tag_geotarget_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Setting Location Parameters (Geo-targets)", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202466397, 
+    "source_locale": "en-us", 
+    "title": "Setting Location Parameters (Geo-targets)", 
+    "updated_at": "2016-01-21T01:28:08Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212012688-Setting-Location-Parameters-Geo-targets-.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

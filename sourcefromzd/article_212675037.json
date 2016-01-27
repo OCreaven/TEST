@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Now you're speaking my language</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Go to “Personal Information” in settings (the gear, top right corner).</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2. </span>Within “Personal Information,” find the language settings toward the bottom right.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.</span> Click on the list below “Language” and choose from the available languages.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span> Click “Update” to save.**</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Don’t see your native language? As AdRoll grows internationally, we will improve our international support features. Thank you for your patience!</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Also good to know</span></p>\r\n<ul>\r\n<li>To save any changes to “Personal Information”, you'll need to add your first and last name.**</li>\r\n<li>The language you set is specific to your dashboard display. If there are additional users on your your account, they'll have independent control of how their dashboards appear.</li>\r\n<li>AdRoll bills in USD. Adjusting your language does not adjust currency. Please reach out to your account manager or the Delight team for help with currencies.</li>\r\n<li>AdRoll dashboards are standardized to the UTC (coordinated universal time). Adjusting your language does not localize timezone.</li>\r\n<li>The AdRoll dashboard supports the following languages: Dutch, English (US/UK), French, German, Japanese, and Spanish</li>\r\n</ul>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:05:25Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212675037-Adjusting-Your-Dashboard-Language", 
+    "id": 212675037, 
+    "label_names": [
+        "tag_dashboard_language_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Adjusting Your Dashboard Language", 
+    "outdated": false, 
+    "position": 2, 
+    "promoted": true, 
+    "section_id": 202483508, 
+    "source_locale": "en-us", 
+    "title": "Adjusting Your Dashboard Language", 
+    "updated_at": "2016-01-21T01:12:33Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212675037-Adjusting-Your-Dashboard-Language.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

@@ -1,0 +1,25 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>If others will be managing your campaigns with you, we recommend adding them to your account as an <em>Additional User</em> rather than sharing a login. This minimizes the need to share passwords over email (don't do it!!) and also allows for better event logging, which can be useful in the case that a change is made that you did not authorize.</p>\r\n<p> </p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Give an <em>Additional User</em> access to your account</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Log in to the <a href=\"https://app.adroll.com/dashboard\" target=\"_blank\">AdRoll Dashboard</a>.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2. </span>Access Additional Users through the User Settings menu, accessible in the top right hand corner of your dashboard.</p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202777154/settings_mainnav_en-us.png\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3. </span>In the Additional Users setting page, click Add Additional User</p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202833910/adduser_en-us.png\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span> Enter the email address you would like to add.</p>\r\n<p class=\"wysiwyg-text-align-left wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">5.</span> Determine the level of access you wish to provide to the user being added. Specify either\"Administrator\" or \"General User\" as the <em>User Role</em>. <a href=\"#types\">Jump to <em>User Permissions</em></a> to learn more about each role type.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">6.</span> Check the boxes next to each profile that the user should have access to, or select \"All Advertiser Profiles\" if providing full access. </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202833960/userrole_en-us.png\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"> </p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">7. </span>(Optional) If needed, General Users can also be granted access to billing tools. Note that Administrators are automatically provided with this level of access.</p>\r\n<p class=\"wysiwyg-indent1\"> <img src=\"https://help.adroll.com/hc/en-us/article_attachments/202777204/billingaccess_en-us.png\" alt=\"\" /></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong><a id=\"types\"></a>User Permissions</strong></span></p>\r\n<p>Setting a user role as either \"Administrator\" or \"General User\" will determine their level of access on the dashboard.</p>\r\n<p><em><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202402384/1B9e_en-us.png\" alt=\"\" /></em></p>\r\n<p><em>Administrators</em> have the same access as the main account holder, including the ability to manage billing and additional users to the account. </p>\r\n<p>Adding a <em>General User</em> allows you to have greater control over access to specific profiles and to billing, as needed. When provided with full access, a <em>General User </em>can perform all the functions that an <em>Administrator </em>can, except for managing additional users on account. </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:19:30Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212675587-Adding-Additional-Users-to-your-Account", 
+    "id": 212675587, 
+    "label_names": [
+        "tag_primary_user_1", 
+        "tag_secondary_user_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Adding Additional Users to your Account", 
+    "outdated": false, 
+    "position": 3, 
+    "promoted": false, 
+    "section_id": 202483498, 
+    "source_locale": "en-us", 
+    "title": "Adding Additional Users to your Account", 
+    "updated_at": "2016-01-21T01:11:20Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212675587-Adding-Additional-Users-to-your-Account.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

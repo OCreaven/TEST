@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>The following prepared script can be used to implement enhanced conversion tracking in Volusion:</p>\r\n<script src=\"https://gist.github.com/anonymous/4fb019a2d44502a9a39e.js\"></script>\r\n<p>To implement the script:</p>\r\n<p>1. Log into your admin panel.</p>\r\n<p><span class=\"wysiwyg-font-size-medium\">2. Go to Design &gt; Site Content. </span></p>\r\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-large\"><span class=\"wysiwyg-font-size-medium\"><span id=\"docs-internal-guid-80269c74-ab6c-1ea8-1eca-f3b1e775a627\"><img class=\"wysiwyg-text-align-left\" src=\"https://lh3.googleusercontent.com/Fyz8Bn3A5dTaQiWH0rDBfFr3gfhYJ_s97hK8JuglZus1WHwSaSeRJpxJ7laTwW6Xq5hUvJ_bvr2-e3619nbS8svo_FM81zK_NSYTPr5z8035QJB3paySTWkdnDndLYaLwQ\" alt=\"\" width=\"194\" height=\"221\" /></span></span></span></p>\r\n<p class=\"wysiwyg-text-align-left\"><span class=\"wysiwyg-font-size-large\"><span class=\"wysiwyg-font-size-medium\"><span id=\"docs-internal-guid-80269c74-ab6c-1ea8-1eca-f3b1e775a627\"><span class=\"wysiwyg-font-size-large\"><span class=\"wysiwyg-font-size-medium\"><span id=\"docs-internal-guid-80269c74-ab6c-1ea8-1eca-f3b1e775a627\"><span class=\"wysiwyg-font-size-large\"><span class=\"wysiwyg-font-size-medium\"><span id=\"docs-internal-guid-80269c74-ab6c-1ea8-1eca-f3b1e775a627\"><span class=\"wysiwyg-font-size-medium\">3. Select “Article 130 OrderFinished.asp” and insert the script below into the <span id=\"docs-internal-guid-80269c74-ab6c-a5e2-20c2-7da1774a234c\">“Article Body.”</span></span></span></span></span> </span></span></span></span></span></span></p>\r\n<p class=\"wysiwyg-text-align-left\"><img class=\"wysiwyg-text-align-center\" src=\"https://lh4.googleusercontent.com/43CD_dhfaloXHjqunkGoJ9tq3PemDuB1I8ad6ZfRnmcjMAVkcY6S4RVrFaHqylqdpURlYAgeoZ6jtn5yV4wPXI5RzXlO8mevRQfJ42AD5gK-nNCmMQCopyM4OebahmPRNw\" alt=\"\" width=\"513\" height=\"332\" /></p>\r\n<p><span id=\"docs-internal-guid-80269c74-ab63-3743-0ad0-9bd489da57e2\"> </span></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-12-02T17:27:36Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/215172957-Enhanced-Conversion-Tracking-for-Volusion", 
+    "id": 215172957, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Enhanced Conversion Tracking for Volusion", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 203382678, 
+    "source_locale": "en-us", 
+    "title": "Enhanced Conversion Tracking for Volusion", 
+    "updated_at": "2015-12-02T17:27:36Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/215172957-Enhanced-Conversion-Tracking-for-Volusion.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

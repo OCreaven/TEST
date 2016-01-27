@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>Our SmartPixel is a container pixel that hosts the pixels and tags provided by our partner networks. We recommend that you place your SmartPixel within your global footer, enabling it to fire dynamically across every page of your domain after just one placement. We designed your SmartPixel to fire asynchronously <em>after </em>functional page elements have loaded, meaning that, as long as it was placed correctly, the SmartPixel will not affect page load times.</p>\r\n<p>Once the SmartPixel is active, your dashboard should update to indicate “SmartPixel Active” in the right sidebar. If you continue to see “SmartPixel Inactive”, here are some potential reasons why.</p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Troubleshooting your SmartPixel:</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span><strong> Give it some time.</strong> Give your SmartPixel an hour to register as active, at which point your button will read \"SmartPixel Active.\" Refresh your dashboard to see the latest status.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2.</span><strong> Pixel is not placed directly before the closing body tag: &lt;/body&gt;.</strong> It is always best to include the SmartPixel directly before the &lt;/body&gt; tag on your site. This will ensure that AdRoll’s script loads correctly, and will have minimal effect on the rendering of your page content.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.</span><strong> Your Pixel has been modified.</strong> Altering your SmartPixel, including changes in formatting affects the script’s ability to fire. Your SmartPixel should be placed on all pages of your site, exactly as it was copied from your AdRoll dashboard. Please do not add to or edit the script in any way.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span><strong> The wrong SmartPixel has been placed.</strong> If you have multiple advertiser profiles, please ensure that the SmartPixel you placed is linked to the advertiser profile in question. Navigate to the advertiser profile in question, and click on the “SmartPixel Inactive” button in the right sidebar to pull up the SmartPixel. Check the the pixel ID (line 2 of the JavaScript) to see if it matches the ID of the SmartPixel in the source code of your intended domain.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>If you believe you’ve met all of the outlined requirements and your pixel is still not firing after 24 hours, please email your account manager or <a href=\"/hc/en-us/requests/new\">the Customer Delight team</a> for further assistance.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T23:27:40Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/211846028-SmartPixel-Troubleshooting", 
+    "id": 211846028, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "SmartPixel Troubleshooting", 
+    "outdated": false, 
+    "position": 2, 
+    "promoted": false, 
+    "section_id": 202483338, 
+    "source_locale": "en-us", 
+    "title": "SmartPixel Troubleshooting", 
+    "updated_at": "2016-01-06T21:02:56Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/211846028-SmartPixel-Troubleshooting.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

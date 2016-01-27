@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>If you use <em>PayPal Standard</em> to collect payments, your visitor has to leave your website to complete the transaction. That makes conversion tracking a little trickier.</p>\r\n<p>To make sure that you are tracking conversions accurately, make sure that PayPal is redirecting your user back to an <em>order confirmation</em> or<em>thank you</em> page after the transaction is complete. You'll set this up when you set up your PayPal button.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">How do I set up conversion tracking if I use PayPal?</span></p>\r\n<p><span class=\"wysiwyg-font-size-large\">1.</span> Log into your PayPal account.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">2.</span> Navigate to \"Tools\".</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202790687/paypal_tools_en-us.png\" alt=\"\" /></p>\r\n<p><span class=\"wysiwyg-font-size-large\">3.</span> Click \"PayPal Buttons.\"</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202790737/paypal_button_en-us.png\" alt=\"\" /></p>\r\n<p><span class=\"wysiwyg-font-size-large\">4.</span> Any buttons that you previously created will appear here. If you are editing an existing button, click \"Action\" next to the button name that you want to edit. Otherwise, click \"Create new button\".</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202861518/paypal_managebutton_en-us.png\" alt=\"\" /></p>\r\n<p><span class=\"wysiwyg-font-size-large\">5.</span> The option to redirect users back to a page on your website is in <em>Step 3: Customize advanced features (optional)</em>. Click open this section.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">6.</span> Check the box next to \"Take customers to this URL when they finish checkout\" and enter your <em>order confirmation</em> or <em>thank you</em> page URL. Make sure that you verify that the URL entered is correct - if not your users will see a 404 error page.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202861558/paypal_redirectURL_en-us.png\" alt=\"\" /></p>\r\n<p>Note that you can specify a custom page if your visitor cancels too.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">7.</span> Click \"Save Changes\" to confirm (or \"Create Button, if new).</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202790887/paypal_savechanges_en-us.png\" alt=\"\" /></p>\r\n<p><span class=\"wysiwyg-font-size-large\">8.</span> Set up a conversion segment on the <em>Audience</em> tab of your <a href=\"http://www.adroll.com/dashboard\" target=\"_blank\">AdRoll dashboard</a> that is tied to the URL of your conversion page.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-02T18:07:12Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213429707-Tracking-PayPal-Conversions", 
+    "id": 213429707, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Tracking PayPal Conversions", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202833298, 
+    "source_locale": "en-us", 
+    "title": "Tracking PayPal Conversions", 
+    "updated_at": "2016-01-11T18:05:32Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213429707-Tracking-PayPal-Conversions.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

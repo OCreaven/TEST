@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>Gérez vos paramètres personnels de compte en accédant à la rubrique &quot;Renseignements personnels&quot; de vos paramètres. C'est là que vous pouvez gérer des informations comme la langue du tableau de bord, l'adresse e-mail ou la sécurité de votre compte.</p>\r\n<p>Toute modification effectuée dans cette rubrique ne s'appliquera qu'à la façon dont <em>vous</em> voyez votre tableau de bord, même si d'autres utilisateurs sont associés à votre compte.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Renseignements personnels</strong></span></p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/203394437/settings_personalinfo_en-us.png\" alt=\"\" /></strong></span></p>\r\n<p>Si vous avez besoin d'actualiser votre adresse e-mail, de modifier votre mot de passe ou de changer la langue de votre tableau de bord, faites-le en actualisant ces informations dans la rubrique &quot;Renseignements personnels&quot; des <em>paramètres</em>.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Prénom, nom</span></p>\r\n<p>Si vous souhaitez modifier une information dans &quot;Renseignements personnels&quot;, commencez par saisir vos prénom et nom.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">E-mail</span></p>\r\n<p>Le nom d'utilisateur pour accéder à votre compte AdRoll correspond à votre adresse e-mail. Vous recevrez un e-mail de notre part chaque fois qu'une activité de votre compte requiert votre attention, et quand nous lançons de nouveaux produits et fonctionnalités. Si vous ne souhaitez pas recevoir de notifications par e-mail, indiquez-le dans vos paramètres de messagerie, rubrique &quot;Préférences d'e-mail&quot;, également dans <em>Paramètres</em>.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Sécurité du compte</span></p>\r\n<p>Pour garantir la sécurité de votre compte, nous vous recommandons de modifier régulièrement votre mot de passe. Pour en changer, il vous faut tout d'abord saisir le mot de passe actuel. Si vous l'avez oublié, déconnectez-vous et cliquez sur le lien &quot;Mot de passe oublié&quot;. Nous vous enverrons alors un lien de réinitialisation de mot de passe à l'adresse e-mail enregistrée dans votre dossier.</p>\r\n<p>Pour renforcer la sécurité de votre compte, nous vous recommandons également d'opter pour le <strong>chiffrage en deux étapes</strong>. Les deux étapes permettent d'ajouter un niveau de sécurité supplémentaire car il vous sera demandé, outre la saisie de votre nom d'utilisateur et de votre mot de passe, de vérifier votre identité via votre appareil mobile.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Langue du tableau de bord</span></p>\r\n<p>Pour modifier la langue du tableau de bord, cliquez sur le menu puis choisissez une autre langue dans la liste. Remarque : la langue de votre tableau de bord n'est pas associée à la devise utilisée. Cliquez ici pour en savoir davantage sur les devises du tableau de bord et comment les actualiser.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-04T19:45:01Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213546257-Personal-Information", 
+    "id": 213546257, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Personal Information", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202466387, 
+    "source_locale": "en-us", 
+    "title": "Renseignements personnels", 
+    "updated_at": "2016-01-20T15:38:51Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213546257-Personal-Information.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

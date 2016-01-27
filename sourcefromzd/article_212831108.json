@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>Interested in setting up conversion tracking for Mobile App Install (MAI) or Mobile News Feed (MNF) campaigns? You’ve come to the right place.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Tracking conversions for Mobile App Install (MAI) campaigns</strong></span></p>\r\n<p><span class=\"wysiwyg-font-size-large\">Requirements</span></p>\r\n<ul>\r\n<li>A mobile app, integrated with the Facebook SDK, or one of <a href=\"http://www.facebook-pmdcenter.com/partners\" target=\"_blank\">Facebook's approved mobile measurement partners</a>.</li>\r\n<li>Minimum of one active MAI ad, submitted with your brand’s Facebook App ID. </li>\r\n</ul>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Setup</span></p>\r\n<p>Your Facebook App ID allows us to track installs (conversions) that were driven by AdRoll. Outside of making sure that you’ve addressed all the above requirements, no additional steps are needed to set up conversion tracking for MAI.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Additional considerations</span></p>\r\n<ul>\r\n<li>Attributable conversions on MAI are reported as both click-through conversions (CTC) and view-through conversions (VTC).</li>\r\n<li>Conversions are counted when the user first opens your app, not upon installation</li>\r\n<li>Converted users are automatically excluded from your campaign’s targeted audience</li>\r\n</ul>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Tracking conversions for Mobile News Feed (MNF) campaigns</strong></span></p>\r\n<p><span class=\"wysiwyg-font-size-large\">Requirements</span></p>\r\n<ul>\r\n<li>A conversion segment set up to track mobile conversions</li>\r\n</ul>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Do I need to track mobile conversions separately?</span></p>\r\n<p>There is no need to create a second mobile conversion segment if the conversion page URL is the same for your desktop and mobile websites. If this is the case, your mobile website is considered <em>mobile responsive</em>, meaning that your website design is responsive to the type of device it is loading on.</p>\r\n<p>Alternately, you may have a <em>mobile optimized </em>website. This means that a website has been created designed to be specifically read on a mobile device. These types of websites typically have a <em>m.example.com</em> URL. To track conversions on a <em>mobile optimized</em> website, you will need to place the SmartPixel on the conversion page and set up a conversion segment corresponding to the page URL.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Setup</span></p>\r\n<p>Creating a conversion segment is easy.  Simply click on “Visitor Data” in the top menu bar of adroll.com/dashboard and then select “Track Conversions.”  Enter in the unique URL parameters of your thank you page, and click done. </p>\r\n<p>If your site is mobile optimized, and you wish to parse out converted visitors specific to mobile, you can simply create a segment with “m.yourdomain.com” as the URL. You will want to ensure that the AdRoll Smart Pixel is placed on this \"m.\" domain. Please refer to the above guide for details on this process.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\">Additional considerations</span></p>\r\n<ul>\r\n<li>Attributable conversions on MNF are reported as both click-through conversions (CTC) and view-through conversions (VTC).</li>\r\n<li>Converted users are not automatically excluded from MNF campaigns.</li>\r\n</ul>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-02T18:16:35Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212831108-Conversion-Tracking-for-Mobile-Facebook-Campaigns", 
+    "id": 212831108, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Conversion Tracking for Mobile Facebook Campaigns", 
+    "outdated": false, 
+    "position": 5, 
+    "promoted": false, 
+    "section_id": 202483418, 
+    "source_locale": "en-us", 
+    "title": "Conversion Tracking for Mobile Facebook Campaigns", 
+    "updated_at": "2016-01-06T23:43:08Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212831108-Conversion-Tracking-for-Mobile-Facebook-Campaigns.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

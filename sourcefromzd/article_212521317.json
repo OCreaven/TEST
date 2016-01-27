@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>To launch a campaign, <a href=\"http://www.adroll.com/dashboard\" target=\"_blank\">log into your AdRoll dashboard</a>. Make sure that your <a href=\"https://help.adroll.com/hc/en-us/articles/201815734#content-anchor\" target=\"_blank\">SmartPixel is active</a>.</p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Create new campaign</span></p>\r\n<p class=\"wysiwyg-indent1\">To get started, click the “Create New Campaign” in the right sidebar. </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204795838/sidebar_newcampaign_en-us.png\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Step 1:</span> Choose whether you want to retarget your visitors web or Facebook. </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204816637/campaign_type_en-us.png\" alt=\"\" /></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li><strong>The web is good for reach:</strong> we serve your ads everywhere your visitors go, not just Facebook. </li>\r\n<li><strong>Facebook is good for social engagement:</strong> visitors can like, comment, and share your post with their network. </li>\r\n</ul>\r\n<p class=\"wysiwyg-indent1\"> </p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Step 2:</span> Basic campaign settings </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204795918/campaign_settings2_en-us.png\" alt=\"\" /></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li><strong>Budget:</strong> The amount you want to spend each week on retargeting. You’ll need to budget at least $25. </li>\r\n<li><strong>Schedule:</strong> If you do not adjust this, your campaign is set to start immediate with no firm end date (you can specify an end date later by editing your campaign). Your campaign run time should be at least 2 weeks. </li>\r\n<li><strong>Start Date:</strong> When you want your campaign to start serving </li>\r\n<li><strong>End Date:</strong> When you want your campaign to end </li>\r\n<li><strong>Geotargets:</strong> If someone goes to your website, that suggests already that they’re a potential customer. That being said, geotargets can be set to include or exclude specific locales.  </li>\r\n</ul>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Step 3:</span> Who should see your ads? </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204816667/campaign_segments_en-us.png\" alt=\"\" /></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li>If you are running a general brand campaign or just getting started, select All Visitors. </li>\r\n</ul>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Step 4: </span>What ads should we deliver? </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204796038/campaign_ads_en-us.png\" alt=\"\" /></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li>If you would like for our Design Squad to design custom ads for you, click \"Request Ads\".</li>\r\n<li>To upload your own ads, drag and drop your files or browse for them. </li>\r\n</ul>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Step 5: </span>Payment and review </p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204796078/campaign_review_en-us.png\" alt=\"\" /></p>\r\n<ul class=\"wysiwyg-indent1\">\r\n<li>You must enter a CC or link PayPal to launch your campaign. If you have promotional credit to cover your weekly campaign budget, you will not be charged when your campaign is approved to run.<br /><br /></li>\r\n</ul>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T23:12:05Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212521317-How-do-I-launch-a-campaign-", 
+    "id": 212521317, 
+    "label_names": [
+        "tag_launch_1"
+    ], 
+    "locale": "en-us", 
+    "name": "How do I launch a campaign?", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202483528, 
+    "source_locale": "en-us", 
+    "title": "How do I launch a campaign?", 
+    "updated_at": "2016-01-21T01:42:24Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212521317-How-do-I-launch-a-campaign-.json", 
+    "vote_count": 1, 
+    "vote_sum": 1
+}

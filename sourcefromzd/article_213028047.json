@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">End (complete) your campaign with an end date.</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Click on the campaign's name.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2.</span> In the right sidebar, click \"Edit Campaign\".</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.<span class=\"wysiwyg-font-size-medium\"> <span class=\"wysiwyg-font-size-medium\">Set your end date to today.</span></span></span></p>\r\n<p class=\"wysiwyg-indent1\">Your campaign will complete at midnight UTC. If you need to complete a campaign right this minute, reach out to the Customer Delight team on Live Chat.<br /><br /></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><strong>Verify that your end date saved.</strong> Campaign schedules can be found directly below your campaign name. <em>Ongoing</em> means that no end date is set, and your campaign will continue to serve until you pause or complete it. </p>\r\n<p><strong><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/203614568/campaign_dashongoing_en-us.png\" alt=\"\" /> </strong></p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">How do I complete the campaign I just launched?</span></strong></p>\r\n<p>All campaigns must have a minimum run time of five days, so if you need to complete a <em>pending</em> or recently approved campaign reach out to the Customer Delight team.</p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">What happens to the credit in my account balance after I complete a campaign?</span></strong></p>\r\n<p>When a campaign completes, your required balance (the sum of all your campaign budgets) lowers. This may result in an excess of credit in your account balance.</p>\r\n<p><strong>If you have other active campaigns remaining</strong>, your credit will be applied to cover their spend as they continue to draw from your account balance. This often means that you will not be charged as much to refill your account balance for the next week. In some cases, there may be enough excess credit to fully cover spend on your other campaign(s) for the week, so no amount will be owed and you will not be charged.</p>\r\n<p><strong>If you no longer have any active campaigns</strong>, you can leave credit in your account if you plan on launching another campaign soon. Otherwise, it probably makes sense to be refunded the excess credit. Let the Delight team know via email and we'll get it done!</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Can I relaunch a completed campaign?</strong></span></p>\r\n<p>Completed campaigns cannot be reactivated, however all ads are saved in your <em>Ads</em> library so you can easily re-create your campaign. If you would like assistance with relaunching your campaign, feel free to reach out to the Delight team and we'll copy your campaign for you.</p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-23T23:53:04Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213028047-Completing-Your-Campaign", 
+    "id": 213028047, 
+    "label_names": [
+        "tag_complete_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Completing Your Campaign", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": true, 
+    "section_id": 202466407, 
+    "source_locale": "en-us", 
+    "title": "Completing Your Campaign", 
+    "updated_at": "2016-01-21T01:36:32Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213028047-Completing-Your-Campaign.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

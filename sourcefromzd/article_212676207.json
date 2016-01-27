@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><span class=\"wysiwyg-font-size-large\"><strong>How do I exclude IP addresses?</strong></span></p>\r\n<p>IP address exclusion is part of your campaign settings. When you are create a new web campaign, look for “Show Advanced Options” on<em>Step 1</em> in the bottom right corner of the “Campaign Settings” box.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202835070/advanced_campaignsettings_en-us.png\" alt=\"\" /></p>\r\n<p>The option to exclude IP addresses will appear similarly when editing an existing web campaign.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>How can IP exclusion be used?</strong></span></p>\r\n<p>IP address exclusion is a tool that allows you to focus your campaign’s audience. Many advertisers exclude IP address to block internal traffic (devices in your company’s network) from being targeted by their web campaigns.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>What happens when you exclude IP addresses?</strong></span></p>\r\n<p>An IP address is a numeric identification system that identifies the location and host network (how you are accessing the internet) of your device. When you exclude an IP address, you block the ability to serve ads to to any device(s) linked to the specified IP address.</p>\r\n<p>We offer the ability to exclude IP addresses from web campaigns.</p>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>Is there a downside to IP exclusion?</strong></span></p>\r\n<p>The larger your audience, the better we will be able to optimize your web campaign’s performance. Avoid applying any types of exclusions if your total audience size is below 1,000 unique visitors, as it may do more harm than good.</p>\r\n<p>Otherwise, there isn’t a downside! Focusing your efforts on audiences that will be receptive to your ads can improve your campaign performance greatly.</p>\r\n<p><span class=\"wysiwyg-font-size-large\">Additional Considerations</span></p>\r\n<p>Keep in mind that IP address exclusion blocks <em>devices </em>or <em>networks</em>, not people. Using the blocking of internal traffic as an example, excluding your company’s IP address will block an employee from being targeted while using a device at work, but will not block employees on their personal devices or networks outside the office.</p>\r\n<p>If you have a employee portal hosted on a subdomain of your website, you may consider placing your SmartPixel on that subdomain, using URL segmentation as a way to identify employees and subsequently excluding them from your campaign.</p>\r\n<p> </p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:45:04Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212676207-Excluding-IP-Addresses", 
+    "id": 212676207, 
+    "label_names": [
+        "tag_ip_exclusion_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Excluding IP Addresses", 
+    "outdated": false, 
+    "position": 3, 
+    "promoted": false, 
+    "section_id": 202466397, 
+    "source_locale": "en-us", 
+    "title": "Excluding IP Addresses", 
+    "updated_at": "2016-01-21T01:28:31Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212676207-Excluding-IP-Addresses.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

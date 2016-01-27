@@ -1,0 +1,25 @@
+{
+    "author_id": 1205002307, 
+    "body": "<div class=\"article-body\">\r\n<p><strong><span class=\"wysiwyg-font-size-large\">Evaluating Prospecting Campaigns</span></strong></p>\r\n<p>Prospecting campaigns are different from Retargeting campaigns, in that they target people who haven’t been to your site and likely are unfamiliar with your brand.</p>\r\n<p>Prospecting campaigns typically drive fewer direct, or last-touch conversions than Retargeting campaigns. However, direct conversions are only part of the attribution story. We’ve introduced some new metrics into our reporting so that you can fairly evaluate the value of your Prospecting campaigns.</p>\r\n<ul>\r\n<li><strong>New Visitors:</strong> the number of new visitors who came to your site. </li>\r\n<li><strong>Engaged Visitors:</strong> the number of new visitors who have viewed at least 3 pages on your site. </li>\r\n<li><strong>Cost per Engaged Visitor:</strong> The cost for each new visitor that has viewed at least 3 pages on your site. This is calculated by dividing campaign Spend by Engaged Visitors</li>\r\n<li><strong>Bounce Rate:</strong> The percentage of visitors who have only viewed one page and left your site. </li>\r\n<li><strong>Assisted Conversions:</strong> The number of conversions where a Prospecting ad was viewed or clicked prior to converting, but was not the last touch on the conversion path. </li>\r\n<li><strong>Total Conversions:</strong> the number of conversions where a touch by a Prospecting ad occurred at any point on the conversion path (includes Retargeting conversions).</li>\r\n</ul>\r\n<p><br /><strong><span class=\"wysiwyg-font-size-large\">Understanding Prospecting Conversion Metrics</span></strong></p>\r\n<p>Most conversion metrics for Prospecting are going to be familiar, but in a new context! Use the following guide to better understand which conversion metrics to prioritize.</p>\r\n<p><strong>VTC:</strong> The number of direct conversions that occurred after viewing a Prospecting ad. <br /><strong>CTC:</strong> The number of direct conversions that occurred after clicking a Prospecting ad. <br /><strong>Conversions:</strong> The sum of all conversions that occurred directly after viewing or clicking a Prospecting ad. <br /><strong>Assisted Conversions:</strong> The number of conversions where a Prospecting ad was viewed or clicked prior to converting, but was not the last touch on the conversion path. <br /><strong>Total Conversions:</strong> the number of conversions where a touch by a Prospecting ad occurred at any point on the conversion path (includes Retargeting conversions).</p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">Prospecting Creative Best Practices</span></strong></p>\r\n<p>Ads play a huge part in the performance of your Prospecting campaign! The best performing Prospecting campaigns have compelling creative and calls to action that draw people in. Keep in mind that Prospecting ads are only served to people who haven’t visited your site.</p>\r\n<p>The following creative best practices can help drive performance:</p>\r\n<p><strong>Strong CTA:</strong> We are engaging brand new users, so catching their eye with a strong incentives to act such as “15% off your first order” is recommended.<br /><strong>Look at retargeting performance:</strong> We suggest using the ads that have the highest volume of click through conversions in your Retargeting campaign.<br /><strong>Dynamic Creative:</strong> This is recommended for all retail campaigns.</p>\r\n</div>\r\n<div class=\"article-attachments\"> </div>\r\n<footer class=\"article-footer clearfix\"></footer>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-02T18:01:45Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212829928-Understanding-Prospecting-Campaign-Performance", 
+    "id": 212829928, 
+    "label_names": [
+        "tag_performance_1", 
+        "tag_kpi_help_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Understanding Prospecting Campaign Performance", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202483458, 
+    "source_locale": "en-us", 
+    "title": "Understanding Prospecting Campaign Performance", 
+    "updated_at": "2016-01-21T01:25:59Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212829928-Understanding-Prospecting-Campaign-Performance.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

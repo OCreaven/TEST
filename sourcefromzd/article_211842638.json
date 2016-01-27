@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table class=\"wysiwyg-indent1\" style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody class=\"wysiwyg-indent1\">\r\n<tr class=\"wysiwyg-indent1\">\r\n<td class=\"wysiwyg-indent1\">\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Adding a credit card through <em>Settings &gt; Billing Information</em></span></p>\r\n<p class=\"wysiwyg-indent1\">AdRoll accepts all major credit card providers: VISA, MasterCard, Discover, and American Express.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1. </span>Click<img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204605207/billing_addpayment_en-us.png\" alt=\"\" /> <br /> <span class=\"wysiwyg-font-size-large\">2. </span>Enter your billing information. Once you’ve verified that this information is accurate, click “Next”. <br /> <span class=\"wysiwyg-font-size-large\">3. </span>Select “Credit Card”. Click “Next” to confirm. <br /> <span class=\"wysiwyg-font-size-large\">4. </span>Enter your credit card information and “Save”. <br />If this is the only payment method available on your dashboard, the credit card will automatically be marked as default. Otherwise, click the <img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/204605227/billing_makedefault_en-us.png\" alt=\"\" /> button to update your primary payment option.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><br /> <br /><span class=\"wysiwyg-font-size-large\">I'm having trouble with my credit card.</span></p>\r\n<p>If you are experiencing difficulty while attempting to upload your credit card, please run through the following troubleshooting steps:</p>\r\n<p><span class=\"wysiwyg-font-size-large\">1. </span>Make sure you are entering an authorized credit card; we do not accept pre-paid cards/gift credit cards. <br /> <span class=\"wysiwyg-font-size-large\">2. </span>Check your card's expiration date. If you are using a brand new card, make sure that it has been properly activated. <br /> <span class=\"wysiwyg-font-size-large\">3. </span>Verify that you've entered your credit card details correctly. If there are any errors in your credit card number or expiration date, you should be prompted to correct this. <br /> <span class=\"wysiwyg-font-size-large\">4. </span>Call your card issuer to see if they are blocking the transaction. Certain cards have heightened security protocols that may require you to explicitly authorize recurring charges from AdRoll.com. Since we are based in the US, some banks and credit card issuers outside of the United States may have additional restrictions on international charges. </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T21:53:17Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/211842638-Paying-by-Credit-Card", 
+    "id": 211842638, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Paying by Credit Card", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202483668, 
+    "source_locale": "en-us", 
+    "title": "Paying by Credit Card", 
+    "updated_at": "2016-01-20T15:38:54Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/211842638-Paying-by-Credit-Card.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

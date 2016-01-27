@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><span style=\"font-weight: 400;\">Because of the different versions of and updates to the Magento software, the steps below may vary very slightly. If you find any discrepancies, please consult Magento’s </span><a href=\"http://www.magentocommerce.com/knowledge-base\"><span style=\"font-weight: 400;\">documentation</span></a><span style=\"font-weight: 400;\"> or </span><a href=\"http://www.magentocommerce.com/support/overview\"><span style=\"font-weight: 400;\">customer support</span></a><span style=\"font-weight: 400;\">.</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1. </span>Confirm that your AdRoll SmartPixel is placed in the Miscellaneous HTML section in your Magento Admin Panel.<br /><span class=\"wysiwyg-font-size-large\">2. </span>In the folder that contains your Magento files, find the file with the path /app/design/frontend/default/<wbr />yourskinname/template/<wbr />checkout/success.phtml. There are several ‘success.phtml’ files within the root folder, so make sure to find the appropriate one.<br /><span class=\"wysiwyg-font-size-large\">3. </span>Open up the file in a text editor and add the following php and javascript code in a place that does not interfere with the code that already lives in the file.</p>\r\n<div>\r\n<script src=\"https://gist.github.com/adroll-isabelle/de6e0703f84284f0489c.js\"></script>\r\n<p>After you complete these steps, you should begin to see conversions record revenue on your dashboard.</p>\r\n</div>", 
+    "comments_disabled": false, 
+    "created_at": "2015-12-02T17:36:48Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/214490388-Enhanced-Conversion-Tracking-on-Magento", 
+    "id": 214490388, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Enhanced Conversion Tracking on Magento", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202466357, 
+    "source_locale": "en-us", 
+    "title": "Enhanced Conversion Tracking on Magento", 
+    "updated_at": "2015-12-02T17:38:28Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/214490388-Enhanced-Conversion-Tracking-on-Magento.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

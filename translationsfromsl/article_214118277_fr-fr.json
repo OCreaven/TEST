@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": null, 
+    "comments_disabled": false, 
+    "created_at": "2015-11-11T22:48:34Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/214118277-Hold-Pre-launch", 
+    "id": 214118277, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Hold: Pre-launch", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 203016888, 
+    "source_locale": "en-us", 
+    "title": "En attente : avant lancement", 
+    "updated_at": "2015-11-11T22:48:34Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/214118277-Hold-Pre-launch.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

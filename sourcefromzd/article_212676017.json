@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p dir=\"ltr\">AdRoll does not have a minimum spend requirement. However, in order to properly optimize your campaign, you will need to allow a minimum weekly budget of $25. Your budget represents the maximum authorized spend per week. Spend is influenced by the following factors:</p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><strong>The number of users you are targeting (i.e., the size of your audience segment):</strong> Targeting large users lists increases your advertising reach, and helps you get in front of more potential customers.</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><strong>Variety of ad sizes:</strong> Uploading multiple ad units to your web campaigns will secure premium inventory space. Adroll recommends a minimum of three different ad sizes (300×250, 728×90, and 160×600 are most popular).</p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><strong>The amount you bid for each ad placement (i.e., CPM bid):</strong> AdRoll has algorithms that evaluate each user based on their level of intent (e.g., homepage visitor, shopping card abandoner),  the inventory available, and seasonal factors.</p>\r\n</li>\r\n</ul>\r\n<p>You will be charged once a week to bring your account balance back up to your required balance (the amount we need to cover the sum of your campaign budgets). For example, let's say you have two campaigns with $30, so a required balance of $60 total. if you spend $40 total over the two campaigns during the week, our system will charge you $40 to replenish your balance back to $60.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202933227/billing_en-us.png\" alt=\"\" /></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:37:21Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212676017-The-Difference-Between-Campaign-Budget-and-Spend", 
+    "id": 212676017, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "The Difference Between Campaign Budget and Spend", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202526257, 
+    "source_locale": "en-us", 
+    "title": "The Difference Between Campaign Budget and Spend", 
+    "updated_at": "2015-10-15T19:54:28Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212676017-The-Difference-Between-Campaign-Budget-and-Spend.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

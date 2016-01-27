@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><span class=\"wysiwyg-font-size-large\">1.</span> Log into your Miva Merchant Store Admin</p>\r\n<p><span class=\"wysiwyg-font-size-medium wysiwyg-color-black\"><span class=\"wysiwyg-font-size-large\">2. </span>On the left side column, select the link with your store’s name on it</span></p>\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-large\">3.</span> Select the Global Footer Tab</p>\r\n<p><span class=\"wysiwyg-font-size-medium\"><span class=\"wysiwyg-font-size-large\">4.</span> Insert your SmartPixel in the Global Footer. This will cause the pixel to be placed across the entire site.</span></p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-12-02T17:31:18Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/214490268-Activating-Your-SmartPixel-on-Miva-Merchant", 
+    "id": 214490268, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Activating Your SmartPixel on Miva Merchant", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 203394788, 
+    "source_locale": "en-us", 
+    "title": "Activating Your SmartPixel on Miva Merchant", 
+    "updated_at": "2015-12-08T17:59:59Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/214490268-Activating-Your-SmartPixel-on-Miva-Merchant.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

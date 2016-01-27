@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Pause your campaign with one click</span></p>\r\n<p class=\"wysiwyg-indent1\"><img src=\"https://adrollv2external.zendesk.com/hc/en-us/article_attachments/203613118/campaign_pause.gif\" alt=\"\" /></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Go to \"Campaigns\" on your AdRoll dashboard.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">2.</span> Scroll down and hover your mouse cursor over the campaign you want to pause.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">3.</span> Click the \"Pause\" button that appears.</p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">4.</span> Make sure that your campaign status shows as <em>paused.</em></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>What happens when I pause a campaign?</strong></span></p>\r\n<p>When you pause a campaign, you are temporarily suspending that campaign's activity. This is not permanent; you can also un-pause the campaign at anytime from your dashboard by clicking the \"Resume\" button that appears when you hover over the campaign.</p>\r\n<p>When you un-pause the campaign, your campaign will resume immediately.</p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">Do paused campaigns count towards my required balance?</span></strong></p>\r\n<p><span class=\"wysiwyg-font-size-large wysiwyg-font-size-medium\">Your required balance is the sum of your active campaign budgets. If you need to brush up on how billing works, click here.</span></p>\r\n<p>Paused campaigns <strong>do</strong> count towards your required balance. This is so when you un-pause we have the credit needed to immediately resume your campaign.</p>\r\n<p>If you need to lower your required balance or are not planning on resuming your campaign any time soon, consider completing your campaign. Ads are saved in your <em>Ads</em> library so you can relaunch easily if you change your mind.</p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-23T20:39:47Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212357278-Pausing-Your-Campaign", 
+    "id": 212357278, 
+    "label_names": [
+        "tag_pause_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Pausing Your Campaign", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": true, 
+    "section_id": 202466407, 
+    "source_locale": "en-us", 
+    "title": "Pausing Your Campaign", 
+    "updated_at": "2016-01-21T01:37:01Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212357278-Pausing-Your-Campaign.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

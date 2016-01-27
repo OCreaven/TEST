@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p>All campaign activity is recorded in the \"Campaigns\" tab of your dashboard.</p>\r\n<p>The date picker at the top adjusts reporting so you can see what happened over that date range. </p>\r\n<p>Top-line metrics along the top of your dashboard summarize performance across all your campaigns.</p>\r\n<p>On your activity graph, you see trend lines for two variables. These default to volume of <em>Impresssions</em> and <em>CPM</em>. We default to these variables so you can see how active your campaigns have been over a period of time and at what cost.</p>\r\n<p>If these are not the variables you want to see, you can edit them by clicking on \"SETTINGS\" below the graph. A menu will pop up that will allow you to select the two variables that matter most to you, for example CPC or CPA if you prefer to see performance rather than cost.</p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-05T21:49:02Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/213101648-Campaign-Activity", 
+    "id": 213101648, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Campaign Activity", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202483598, 
+    "source_locale": "en-us", 
+    "title": "Campaign Activity", 
+    "updated_at": "2016-01-12T18:19:16Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/213101648-Campaign-Activity.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

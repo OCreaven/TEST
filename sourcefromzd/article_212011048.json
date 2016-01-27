@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<div class=\"entry-content\">To protect the integrity of your account, we support and recommend using 2-step verification. Once enabled, a 6-digit verification code will be sent to your phone each time your credentials are used to log into AdRoll. Requiring both your password and your phone to gain access means that your data stays safe, and also alerts you to any unauthorized attempts to gain access to your account! To get started:</div>\r\n<div class=\"entry-content\"> </div>\r\n<div class=\"entry-content\">1. Log into your AdRoll account.</div>\r\n<div class=\"entry-content\"><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202430364/1B8a_en-us.png\" alt=\"\" /> \r\n<p>2. Click into <em>settings</em> in the top right corner of the Dashboard. </p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202776734/settings_mainnav_en-us.png\" alt=\"\" /> </p>\r\n<p>3. Navigate to Personal Information.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202833500/personal_settings_en-us.png\" alt=\"\" /> </p>\r\n<p>4. Click on the button to “Enable 2-Step Verification.”</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202833650/2step_personalinfo_en-us.png\" alt=\"\" /> </p>\r\n<p>5. Register your phone number </p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202468370/1B8e_en-us.png\" alt=\"\" /> </p>\r\n<p>6. You will then receive a verification code via text. Enter this code to complete 2-step set up.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202430394/1B8f_en-us.png\" alt=\"\" /> </p>\r\n</div>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:05:54Z", 
+    "draft": true, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212011048-Protecting-Your-Account-With-2-Step-Verification", 
+    "id": 212011048, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Protecting Your Account With 2-Step Verification", 
+    "outdated": true, 
+    "position": 2, 
+    "promoted": false, 
+    "section_id": 202483498, 
+    "source_locale": "en-us", 
+    "title": "Protecting Your Account With 2-Step Verification", 
+    "updated_at": "2016-01-07T00:07:31Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212011048-Protecting-Your-Account-With-2-Step-Verification.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

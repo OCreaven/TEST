@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><strong>AdRoll follows industry standard customer data security practices, including:</strong></p>\r\n<ul>\r\n<li>Our infrastructure is hosted entirely within the Amazon Cloud which has completed SAS70 Type II audits.</li>\r\n<li>Amazon provides physical security and, along with Amazon, we provide network security against DDoS (Distributed Denial of Service) attacks, man-in-the-middle attacks, IP spoofing, port scanning, and packet sniffing, among others.</li>\r\n<li>AdRoll.com is served 100% over https.</li>\r\n<li>We use identity and access management, so that only developers have access.</li>\r\n<li>We practice key rotation and password policies as part of an employee lifecycle program.</li>\r\n<li>To prevent malware in advertising we employ services such as Google Safe-browsing.</li>\r\n</ul>\r\n<p><span class=\"wysiwyg-font-size-small\">Last updated December 10, 2014</span></p>\r\n<p> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:26:00Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212012148-Data-Security-the-AdRoll-Way", 
+    "id": 212012148, 
+    "label_names": [
+        "tag_protection_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Data Security, the AdRoll Way", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202483608, 
+    "source_locale": "en-us", 
+    "title": "Data Security, the AdRoll Way", 
+    "updated_at": "2016-01-21T01:07:03Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212012148-Data-Security-the-AdRoll-Way.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

@@ -1,0 +1,24 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p><span class=\"wysiwyg-font-size-large\"><strong>How do I authorize AdRoll on my Facebook Developers account?</strong></span></p>\r\n<p class=\"p1\"><span class=\"s1\">In order to allow AdRoll to run Facebook mobile app install (MAI) ads, you will need to tie your AdRoll data to the Facebook Developers account that your app is registered on. In order to do so, reach out to your account manager to get your unique key.</span></p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"p1 wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Integrate AdRoll with Facebook Developers</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Log in to the Facebook Developers page.<br /><span class=\"wysiwyg-font-size-large\">2. </span>From the App Developer Settings tab, click on \"Advanced\".<br /><span class=\"wysiwyg-font-size-large\">3. </span>Select the <em>Advertising Accounts</em> section.<br /><span class=\"wysiwyg-font-size-large\">4.</span> Paste your unique key into <em>Authorize Ad Account IDs</em> field.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p> </p>\r\n<p><span class=\"wysiwyg-font-size-large\"><strong>How do I find the Facebook App ID I need to submit with my MAI ad?</strong></span></p>\r\n<p>When uploading your ads, you will be required to input your Facebook App ID. You can find this in your Facebook App Developer panel.</p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Linking your ads to your registered app</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span> Scroll to the Apps tab and click Settings.<br /><span class=\"wysiwyg-font-size-large\">2. </span>Copy your unique Facebook App ID from the Basics tab.<br /><span class=\"wysiwyg-font-size-large\">3. </span>Log in to the AdRoll dashboard and add your unique Facebook App ID to each 1200x627 ad unit.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-12T22:20:57Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212520967-Requirements-For-Your-Mobile-App-Install-Campaign", 
+    "id": 212520967, 
+    "label_names": [
+        "tag_app_install_reqs_1"
+    ], 
+    "locale": "en-us", 
+    "name": "Requirements For Your Mobile App Install Campaign", 
+    "outdated": false, 
+    "position": 4, 
+    "promoted": false, 
+    "section_id": 202483418, 
+    "source_locale": "en-us", 
+    "title": "Requirements For Your Mobile App Install Campaign", 
+    "updated_at": "2016-01-21T01:42:02Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212520967-Requirements-For-Your-Mobile-App-Install-Campaign.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

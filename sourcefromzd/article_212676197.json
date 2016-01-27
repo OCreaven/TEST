@@ -1,0 +1,25 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">Once launched we review your campaign to make sure its ready for our partner networks. Click <a href=\"/hc/en-us/categories/201557917\">here</a> to learn more about what we check for.</span></p>\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">Initial review of submitted campaigns or ads is completed within <strong><span class=\"wysiwyg-font-size-medium\">one business day. </span></strong><span class=\"wysiwyg-font-size-medium\">You'll know we've reviewed your campaign when your campaign status is no longer \"pending\".</span></span></p>\r\n<table style=\"background-color: #e5e5e5;\" border=\"2px\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">Possible Statuses (and What They Mean)</span></p>\r\n<p class=\"wysiwyg-indent1\"><span class=\"wysiwyg-font-size-large\">1.</span><strong> Approved: </strong>The item has been approved by AdRoll admin and submitted to the appropriate network(s).<br /><span class=\"wysiwyg-font-size-large\">2.</span><strong> Pending:</strong> The item is under review and has not been approved or rejected yet.<br /><span class=\"wysiwyg-font-size-large\">3.</span><strong> Suspended:</strong> The <em>ad</em> has been suspended by the review team, typically due to conflicts with creative requirements.<br /><span class=\"wysiwyg-font-size-large\">4. </span><strong>Rejected:</strong> The <em>campaign</em> is not compliant with site policy or requirements.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><span class=\"wysiwyg-font-size-medium\">If approved, your campaign or ads are submitted to our partner networks who conduct a final review. If everything look good, they then move forward with activation and you should begin to see the campaign serving impressions. Your campaign can begin serving as soon as 48 hours from launch.</span></p>\r\n<p> </p>\r\n<p><strong><span class=\"wysiwyg-font-size-large\">How will I be notified if there are items that I need to address?</span></strong></p>\r\n<p>We'll email you if we need your attention on something we found during our review if you have campaign notifications activated. To check if you do, head to \"Email Preferences\" within the \"User Settings\" menu accessible from the top right corner of your dashboard.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202777964/emailsettings_en-us.png\" alt=\"\" /></p>\r\n<p>If you would prefer to not receive campaign notifications in email, that's ok too! These notifications are also saved in your dashboard's <em>Message Center</em> indicated by the bell icon.</p>\r\n<p><img src=\"https://help.adroll.com/hc/en-us/article_attachments/202778004/notifications_mainnav_en-us.png\" alt=\"\" /> </p>", 
+    "comments_disabled": false, 
+    "created_at": "2015-10-15T19:44:17Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212676197-AdRoll-s-Review-Process-and-Statuses", 
+    "id": 212676197, 
+    "label_names": [
+        "tag_statuses_1", 
+        "tag_pending_campaign_1"
+    ], 
+    "locale": "en-us", 
+    "name": "AdRoll's Review Process and Statuses", 
+    "outdated": false, 
+    "position": 1, 
+    "promoted": false, 
+    "section_id": 202466267, 
+    "source_locale": "en-us", 
+    "title": "AdRoll's Review Process and Statuses", 
+    "updated_at": "2016-01-21T01:34:48Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212676197-AdRoll-s-Review-Process-and-Statuses.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}

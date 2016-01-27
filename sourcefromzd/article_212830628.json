@@ -1,0 +1,22 @@
+{
+    "author_id": 1205002307, 
+    "body": "<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">A conversion is the goal that your retargeting campaign is attempting to achieve. It can be anything from a free trial download to a product purchase.</span></p>\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">Our dashboard measures two different types of conversions:  click-through conversions (CTC) and view-through conversions (VTC):</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">CTC is counted when a user clicks an ad and then converting as a direct result.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span class=\"wysiwyg-font-size-medium\">VTC counts customers who were shown an ad and did not click on it, but converted later.</span></p>\r\n</li>\r\n</ul>", 
+    "comments_disabled": false, 
+    "created_at": "2015-11-02T18:15:18Z", 
+    "draft": false, 
+    "html_url": "https://adrollv2external.zendesk.com/hc/en-us/articles/212830628-Click-Through-vs-View-Through-Conversions", 
+    "id": 212830628, 
+    "label_names": [], 
+    "locale": "en-us", 
+    "name": "Click-Through vs View-Through Conversions", 
+    "outdated": false, 
+    "position": 0, 
+    "promoted": false, 
+    "section_id": 202802117, 
+    "source_locale": "en-us", 
+    "title": "Click-Through vs View-Through Conversions", 
+    "updated_at": "2015-11-02T18:15:18Z", 
+    "url": "https://adrollv2external.zendesk.com/api/v2/help_center/en-us/articles/212830628-Click-Through-vs-View-Through-Conversions.json", 
+    "vote_count": 0, 
+    "vote_sum": 0
+}
